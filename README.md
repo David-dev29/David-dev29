@@ -39,7 +39,7 @@
 <h2 align="left">Let's Connect</h2>
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/efren-david-cano-mu%C3%B1oz/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/efren-david-cano-mu%C3%B1oz/]()" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:efrendavid288@gmail.com" target="_blank">
